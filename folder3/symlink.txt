@@ -1,1 +1,1 @@
-/home/simon/Documents/datalad-experiment/test/folder/file1.txt
+/home/simon/Documents/datalad-experiment/test/folder/inside/file3.txt
